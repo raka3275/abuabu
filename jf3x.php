@@ -86,7 +86,7 @@ function claim($token)
 		return false;
 		}
 	}
-echo "Choose Login? Login = 1 : ";
+echo "Login = 1 : ";
 $type = trim(fgets(STDIN));
 if($type == 2){
 echo "It's Register Way\n";
