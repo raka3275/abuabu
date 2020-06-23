@@ -6,7 +6,7 @@ $header[] = "User-Agent: okhttp/3.10.0";
 $header[] = "Accept: application/json";
 $header[] = "Accept-Language: en-ID";
 $header[] = "Content-Type: application/json; charset=UTF-8";
-$header[] = "X-AppVersion: 3.16.1";
+$header[] = "X-AppVersion: 3.55.4";
 $header[] = "X-UniqueId: 106605982657".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";    
 $header[] = "X-User-Locale: en_ID";
